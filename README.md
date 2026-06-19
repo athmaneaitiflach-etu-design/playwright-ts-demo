@@ -14,20 +14,30 @@ E2E automation test suite built with Playwright and TypeScript, featuring Page O
 
 ---
 
-## 📁 Project Structure
 playwright-ts-demo/
 
 ├── .github/workflows/
+
 │   └── ci.yml
+
 ├── pages/
+
 │   ├── LoginPage.ts
+
 │   └── HomePage.ts
+
 ├── tests/
+
 │   ├── login.spec.ts
+
 │   └── home.spec.ts
+
 ├── utils/
+
 ├── playwright.config.ts
+
 ├── package.json
+
 └── tsconfig.json
 ---
 
